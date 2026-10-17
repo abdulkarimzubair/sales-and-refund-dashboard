@@ -17,4 +17,3 @@ Tools: Power BI, DAX, data modelling.
 
 I'd love feedback from the analytics community. What would you add?
 
-#PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #Ecommerce #DataAnalyst #Portfolio
