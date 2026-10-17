@@ -23,7 +23,7 @@ Answer four business questions:
 <!-- Replace with your own screenshots, e.g. upload to /images and link below -->
 | Page 1: Overview | Page 2: Deep Dive |
 |---|---|
-| ![Overview](images/page1_overview.png) | ![Deep dive](images/page2_deep_dive.png) |
+| ![Overview](https://github.com/abdulkarimzubair/sales-and-refund-dashboard/blob/main/sale%20and%20refnd%20png2.JPG) | ![Deep dive](images/page2_deep_dive.png) |
 
 ---
 
