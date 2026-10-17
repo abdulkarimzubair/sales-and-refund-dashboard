@@ -133,7 +133,7 @@ Answer four business questions:
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](https://www.linkedin.com/) · [Portfolio](#) · [Email](mailto:you@example.com)
+**Abdul karim**
+[LinkedIn](https://www.linkedin.com/in/abdulkarim-zubair-a13941319/) · [Portfolio](#) · [Email](abdulkarimzubair12.com)
 
 ⭐ If you found this project useful, consider giving the repo a star.
